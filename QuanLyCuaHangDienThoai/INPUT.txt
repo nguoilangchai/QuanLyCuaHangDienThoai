@@ -1,0 +1,4 @@
+3
+HK7, SamSung, 12/4/2021, 12 Quoc Lo 1A Binh Tan Ho Chi Minh, 15, 5000000, 5500000
+D310, Nokia, 2/9/2021, 72 Nguyen Thi Minh Khai Quan 3 Ho Chi Minh, 30, 2000000, 2300000
+P350, Huawei, 12/7/2021, 1/32 Nguyen Trai Quan 1 Ho Chi Minh, 20, 7500000, 8000000
